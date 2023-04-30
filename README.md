@@ -1,7 +1,7 @@
 ## Olá, sou o Guilherme! 
 
-- 🔭 Atualmente trabalho para evoluir cada vez mais 
-- 🌱 Estudando Análise e Desenvolvimento de sistemas
+- 🎯 Atualmente trabalho para evoluir cada vez mais 
+- ⌛ Estudando Análise e Desenvolvimento de sistemas
 - 😄 Pronomes: ele/dele
 
 <div style="display: inline_block"><br>
