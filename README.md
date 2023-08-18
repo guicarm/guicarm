@@ -1,8 +1,11 @@
 ## Olá, sou o Guilherme! 
+__________________________________________________________________________________________________________________________________________
 
 - 🎯 Atualmente trabalho para evoluir cada vez mais 
 - ⌛ Estudando Análise e Desenvolvimento de sistemas
 - 😄 Pronomes: ele/dele
+___________________________________________________________________________________________________________________________________________
+![guicarm GitHub stats](https://github-readme-stats.vercel.app/api?username=guicarm&show_icons=true&theme=highcontrast)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
