@@ -24,7 +24,7 @@ ________________________________________________________________________________
 </div>
 
 ##
-estamos 
+
 Outras redes sociais onde pode me encontrar:
 
 <div>
