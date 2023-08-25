@@ -1,4 +1,4 @@
-## Olá, sou o Guilherme! 
+## Olá, sou o Guilherme!
 __________________________________________________________________________________________________________________________________________
 
 - 🎯 Atualmente trabalho para evoluir cada vez mais 
@@ -24,7 +24,7 @@ ________________________________________________________________________________
 </div>
 
 ##
-
+estamos 
 Outras redes sociais onde pode me encontrar:
 
 <div>
