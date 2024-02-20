@@ -4,6 +4,7 @@ ________________________________________________________________________________
 - 🎯 Foco em melhorar!
 - ⌛ Estudando Análise e Desenvolvimento de sistemas <a href="https://www.fiap.com.br">(FIAP)</a>
 - 😄 Pronomes: ele/dele
+- 🏆 Finalista do NEXT
 ___________________________________________________________________________________________________________________________________________
 <div>
   <a href="https://github.com/guicarm">
