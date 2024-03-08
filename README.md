@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 ##
 
-utras redes sociais onde pode me encontrar:
+Outras redes sociais onde pode me encontrar:
 
 <div>
   <a href="https://www.linkedin.com/in/guilherme-carneiro-189891266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
