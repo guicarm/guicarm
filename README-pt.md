@@ -3,6 +3,8 @@
     <a align="center" href="https://github.com/guicarm/guicarm/blob/main/README-pt.md">Português</a>
 </div>
 
+##
+
 <div align=center>
   <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Roboto&duration=4000&pause=1000&color=FFFFFF&center=true&width=600&lines=🖐️+Olá+Pessoal!+Meu+nome+é+Guilherme+Carneiro+🐏;👨🏻‍💻+Sou+Desenvolvedor+Full+Stack.+E+um+amante+da+tecnologia+🚀" alt="Typing SVG"/></a>
 </div>
