@@ -10,11 +10,11 @@
 - 🎮 Game, Anime and Music addict
 ___________________________________________________________________________________________________________________________________________
 
-<div>
-  <a href="https://github.com/guicarm">
+<div style="display: flex; justify-content: center; align-content: center;">
+  <a href="https://github.com/guicarm" style="text-decoration: none; margin-right: 10px;">
     
-  <img src="https://github-readme-stats.vercel.app/api?username=guicarm&show_icons=true&theme=github_dark" alt="guicarm GitHub stats" style="margin-right: 20px;"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicarm&layout=compact&langs_count=7&theme=github_dark"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=guicarm&show_icons=true&theme=github_dark" alt="guicarm GitHub stats" style="margin-right: 20px;"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicarm&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <br>
