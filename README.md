@@ -1,9 +1,9 @@
-### Olá, sou o Guilherme!
+### Hello there! I'm Guilherme!
 __________________________________________________________________________________________________________________________________________
 
-- 🎯 Foco em melhorar!
-- ⌛ Estudando Análise e Desenvolvimento de sistemas <a href="https://www.fiap.com.br">(FIAP)</a>
-- 🏆 Finalista do NEXT
+- 🎯 Focus on improving!
+- ⌛ Studying Systems Analysis and Development <a href="https://www.fiap.com.br">(FIAP)</a>
+- 🏆 NEXT Finalist
 ___________________________________________________________________________________________________________________________________________
 <div>
   <a href="https://github.com/guicarm">
@@ -27,7 +27,8 @@ ________________________________________________________________________________
 
 ##
 
-Outras redes sociais onde pode me encontrar:
+
+Social networks where you can find me:
 
 <div>
   <a href="https://www.linkedin.com/in/guilherme-matos-189891266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
