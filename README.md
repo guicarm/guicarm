@@ -41,7 +41,7 @@ ________________________________________________________________________________
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
                                                                                                                
-**Dados e Bancos**                                                                                            
+**Database, Microsservices and Ohters**                                                                                            
                                                                                                                                                    
 ![Oracle PL/SQL](https://img.shields.io/badge/oracle-red?style=for-the-badge&logo=oracle&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
