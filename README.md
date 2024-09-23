@@ -1,9 +1,15 @@
-### Hello there! I'm Guilherme!
-__________________________________________________________________________________________________________________________________________
+<div align=center>
+  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Roboto&duration=4000&pause=1000&color=FFFFFF&center=true&width=600&lines=Hello+Guys!+My+name+is+Guilherme+Carneiro+;I'm+a+Full+Stack+Developer.+And+a+technology+enjoyer+:)" alt="Typing SVG"/></a>
+</div>
+
+<br />
+
+<h3>About Me</h3>
 
 - 🎯 Focus on improving!
 - ⌛ Studying Systems Analysis and Development <a href="https://www.fiap.com.br">(FIAP)</a>
 - 🏆 NEXT Finalist
+- 🎮 Game, Anime and Music addict 
 ___________________________________________________________________________________________________________________________________________
 <div>
   <a href="https://github.com/guicarm">
@@ -12,26 +18,42 @@ ________________________________________________________________________________
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicarm&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
+##
+ <h3>💡 Skills and Knowledges</h3>
 
+**Front-End**
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Guilherme-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Guilherme-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="center" alt="Guilherme-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Guilherme-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Guilherme-git" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
+  ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)           
+                                                                                                                                    
+  
+**Back-End**
+
+  ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-323330?style=for-the-badge&logo=insomnia&logoColor=007ACC)
+  ![.NET](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=.NET&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+                                                                                                               
+**Dados e Bancos**                                                                                            
+                                                                                                                                                   
+![Oracle PL/SQL](https://img.shields.io/badge/oracle-red?style=for-the-badge&logo=oracle&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logoColor=white)    
+![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=orange)
+![AZURE](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft&logoColor=blue)
+![DOCKER](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=blue)     
 </div>
 
 ##
-
 
 Social networks where you can find me:
 
 <div>
   <a href="https://www.linkedin.com/in/guilherme-matos-189891266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:guilhermecarneiromt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gui_carmv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:guilhermecarneiromt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
