@@ -48,7 +48,8 @@ ________________________________________________________________________________
 ![Linux](https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logoColor=white)    
 ![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=orange)
 ![AZURE](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft&logoColor=blue)
-![DOCKER](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=blue)     
+![DOCKER](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=blue)
+<img align="right" alt="life-play-tricks" height="230" width="230" src="https://i.pinimg.com/originals/a4/df/70/a4df707284d20ea57b1bb46dcf35c880.gif">
 
 ___________________________________________________________________________________________________________________________________________
 
