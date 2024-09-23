@@ -2,21 +2,26 @@
   <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Roboto&duration=4000&pause=1000&color=FFFFFF&center=true&width=600&lines=🖐️+Hello+Guys!+My+name+is+Guilherme+Carneiro+🐏;👨🏻‍💻+I'm+a+Full+Stack+Developer.+And+a+technology+enjoyer+🚀" alt="Typing SVG"/></a>
 </div>
 
-<h3>About Me</h3>
+<h3>About me</h3>
 
 - 🎯 Focus on improving!
 - ⌛ Studying Systems Analysis and Development <a href="https://www.fiap.com.br">(FIAP)</a>
 - 🏆 NEXT Finalist
-- 🎮 Game, Anime and Music addict 
+- 🎮 Game, Anime and Music addict
 ___________________________________________________________________________________________________________________________________________
+
 <div>
   <a href="https://github.com/guicarm">
     
-  ![guicarm GitHub stats](https://github-readme-stats.vercel.app/api?username=guicarm&show_icons=true&theme=highcontrast)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicarm&layout=compact&langs_count=7&theme=merko"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=guicarm&show_icons=true&theme=github_dark" alt="guicarm GitHub stats" style="margin-right: 20px;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicarm&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-##
+<br>
+
+___________________________________________________________________________________________________________________________________________
+
+
  <h3>💡 Skills and Knowledges</h3>
 
 **Front-End**
@@ -44,14 +49,21 @@ ________________________________________________________________________________
 ![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=orange)
 ![AZURE](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft&logoColor=blue)
 ![DOCKER](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=blue)     
-</div>
 
-##
+___________________________________________________________________________________________________________________________________________
 
-Social networks where you can find me:
+ <h3>🌐 Social Networks where you can find me:</h3>
 
 <div>
   <a href="https://www.linkedin.com/in/guilherme-matos-189891266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gui_carmv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:guilhermecarneiromt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+___________________________________________________________________________________________________________________________________________
+
+<h4 align="center">
+  <a href="https://github.com/guicarm?tab=repositories" title="guicarm's repositories">🗃️ See my repositories! 🗃️</a>
+</h4>
+
+
