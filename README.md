@@ -48,8 +48,9 @@ ________________________________________________________________________________
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
                                                                                                                
-**Database, Microsservices and Ohters**                                                                                            
-                                                                                                                                                   
+**Database, Microsservices and Ohters**
+
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-green?style=for-the-badge&logo=Thymeleaf&logoColor=white)                                                                                                                                                   
 ![Oracle PL/SQL](https://img.shields.io/badge/oracle-red?style=for-the-badge&logo=oracle&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logoColor=white)    
