@@ -15,6 +15,7 @@
 - ⌛ Studying Systems Analysis and Development <a href="https://www.fiap.com.br">(FIAP)</a>
 - 🏆 [NEXT](https://www.fiap.com.br/next/) Finalist
 - 🎮 Game, Anime and Music addict
+
 ___________________________________________________________________________________________________________________________________________
 
 <div style="display: flex; justify-content: center; align-content: center;">
@@ -64,15 +65,22 @@ ________________________________________________________________________________
  <h3>🌐 Social Networks where you can find me:</h3>
 
 <div>
-  <a href="https://www.linkedin.com/in/guilherme-matos-189891266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/gui_carmv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:guilhermecarneiromt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-matos-189891266/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/gui_carmv" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://portfolio-guilherme-matos.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio%20-%FFFFFF.svg?&style=for-the-badge&logo=Vercel&logoColor=000000&color=FFFFFF" target="_blank"/>
+  </a>
+  <a href = "mailto:guilhermecarneiromt@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </div>
 
 ___________________________________________________________________________________________________________________________________________
 
-<h4 align="center">
-  <a href="https://github.com/guicarm?tab=repositories" title="guicarm's repositories">🗃️ See my repositories! 🗃️</a>
-</h4>
-
-
+🔎 My [Repositories](https://www.fiap.com.br/next/) 🔎
+<br>
+💻 My [Portfolio](https://portfolio-guilherme-matos.vercel.app) 💻
