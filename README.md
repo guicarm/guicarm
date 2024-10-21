@@ -81,6 +81,6 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________________
 
-🔎 My [Repositories](https://www.fiap.com.br/next/) 🔎
+🔎 My [Repositories](https://github.com/guicarm?tab=repositories) 🔎
 <br>
 💻 My [Portfolio](https://portfolio-guilherme-matos.vercel.app) 💻
