@@ -13,7 +13,7 @@
 
 - 🎯 Focus on improving!
 - ⌛ Studying Systems Analysis and Development <a href="https://www.fiap.com.br">(FIAP)</a>
-- 🏆 [NEXT](https://www.fiap.com.br/next/) Finalist
+- 🏆 2x [NEXT](https://www.fiap.com.br/next/) Finalist
 - 🎮 Game, Anime and Music addict
 
 ___________________________________________________________________________________________________________________________________________
