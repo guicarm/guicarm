@@ -12,7 +12,7 @@
 <h3>About me</h3>
 
 - 🎯 Focus on improving!
-- ⌛ Studying Systems Analysis and Development <a href="https://www.fiap.com.br">(FIAP)</a>
+- 🎓 Graduated in Systems Analysis and Development <a href="https://www.fiap.com.br">(FIAP)</a>
 - 🏆 2x [NEXT](https://www.fiap.com.br/next/) Finalist
 - 🎮 Game, Anime and Music addict
 
