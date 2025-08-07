@@ -14,7 +14,7 @@
 - 🎯 Focus on improving!
 - 🎓 Graduated in Systems Analysis and Development <a href="https://www.fiap.com.br">(FIAP)</a>
 - 🏆 2x [NEXT](https://www.fiap.com.br/next/) Finalist
-- 🎮 Game, Anime and Music addict
+- 🎮 Freaky nerd
 
 ___________________________________________________________________________________________________________________________________________
 
