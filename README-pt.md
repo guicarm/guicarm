@@ -14,7 +14,7 @@
 - 🎯 Foco em melhorar!
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas <a href="https://www.fiap.com.br">(FIAP)</a>
 - 🏆 Finalista do [NEXT](https://www.fiap.com.br/next/)
-- 🎮 Viciado em jogos, animes e música
+- 🎮 Nerd dodói
 ___________________________________________________________________________________________________________________________________________
 
 <div style="display: flex; justify-content: center; align-content: center;">
