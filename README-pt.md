@@ -13,7 +13,7 @@
 
 - 🎯 Foco em melhorar!
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas <a href="https://www.fiap.com.br">(FIAP)</a>
-- 🏆 Finalista do [NEXT](https://www.fiap.com.br/next/)
+- 🏆 2X Finalista do [NEXT](https://www.fiap.com.br/next/)
 - 🎮 Nerd dodói
 ___________________________________________________________________________________________________________________________________________
 
