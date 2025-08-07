@@ -68,9 +68,6 @@ ________________________________________________________________________________
   <a href="https://www.linkedin.com/in/guilherme-matos-189891266/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.instagram.com/gui_carmv" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
   <a href="https://portfolio-guilherme-matos.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio%20-%FFFFFF.svg?&style=for-the-badge&logo=Vercel&logoColor=000000&color=FFFFFF" target="_blank"/>
   </a>
