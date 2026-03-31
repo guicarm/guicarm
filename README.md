@@ -18,16 +18,6 @@
 
 ___________________________________________________________________________________________________________________________________________
 
-<div style="display: flex; justify-content: center; align-content: center;">
-  <a href="https://github.com/guicarm" style="text-decoration: none; margin-right: 10px;">
-    
-</div>
-
-<br>
-
-___________________________________________________________________________________________________________________________________________
-
-
  <h3>💡 Skills and Knowledges</h3>
 
 **Front-End**
