@@ -14,7 +14,7 @@
 - 🎯 Foco em melhorar!
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas <a href="https://www.fiap.com.br">(FIAP)</a>
 - 🏆 2X Finalista do [NEXT](https://www.fiap.com.br/next/)
-- 🎮 Nerd dodói
+- 🎮 Nerdzasso
 ___________________________________________________________________________________________________________________________________________
 
 <div style="display: flex; justify-content: center; align-content: center;">
@@ -35,8 +35,7 @@ ________________________________________________________________________________
 
   ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)           
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
                                                                                                                                     
   
 **Back-End**
@@ -44,18 +43,18 @@ ________________________________________________________________________________
   ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-323330?style=for-the-badge&logo=insomnia&logoColor=007ACC)
-  ![.NET](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=.NET&logoColor=white)
+  ![Postman](https://img.shields.io/badge/-Postman-323330?style=for-the-badge&logo=postman&logoColor=ff6c37)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
                                                                                                                
-**Bancos de dado, Microsserviços e Outros**                                                                                            
-                                                                                                                                                   
+**Bancos de dados, Microsserviços e Outros**
+
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-green?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase&logoColor=3dcd8e)
 ![Oracle PL/SQL](https://img.shields.io/badge/oracle-red?style=for-the-badge&logo=oracle&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logoColor=white)    
 ![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=orange)
 ![AZURE](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft&logoColor=blue)
-![DOCKER](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=blue)
 <img align="right" alt="life-play-tricks" height="230" width="230" src="https://i.pinimg.com/originals/76/f4/9b/76f49be8058bf9a399ee40f0061d84b8.gif">
 
 ___________________________________________________________________________________________________________________________________________
