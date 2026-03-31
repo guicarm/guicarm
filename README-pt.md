@@ -17,18 +17,6 @@
 - 🎮 Nerdzasso
 ___________________________________________________________________________________________________________________________________________
 
-<div style="display: flex; justify-content: center; align-content: center;">
-  <a href="https://github.com/guicarm" style="text-decoration: none; margin-right: 10px;">
-    
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=guicarm&show_icons=true&theme=github_dark" alt="guicarm GitHub stats" style="margin-right: 20px;"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicarm&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
-<br>
-
-___________________________________________________________________________________________________________________________________________
-
-
  <h3>💡 Skills e Conhecimentos </h3>
 
 **Front-End**
